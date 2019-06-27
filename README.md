@@ -1,7 +1,7 @@
-# BASH usefull scripts for Linux (Kali)
+# BASH useful scripts for Linux (Kali)
 
-this is bash scripts repositorie for better anderstand linux command
+this is bash scripts repositorie for better understand linux commandes
 specified for beginners.
 
-all of thos scrips are open sorce you can modify them as many as you want. 
-anjoy.
+all of those scripts are open source. you can modify as many as you want. 
+enjoy.
