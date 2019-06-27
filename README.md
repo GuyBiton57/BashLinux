@@ -1,5 +1,7 @@
-# Linux nctool for beginners 
-nc tool that help easly choose if you want to send or get a file
-this code is open source you can use it and change it many as you want.
+# BASH usefull scripts for Linux (Kali)
 
-bash script based on nc command in linux
+this is bash scripts repository for better anderstand linux command
+specified for beginners.
+
+all of thos scrips are open sorce you can modify them as many as you want. 
+anjoy.
