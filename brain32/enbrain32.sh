@@ -9,8 +9,6 @@ read setence
 hex=$(echo "$setence" | hex2raw -r | sed 's/ //g' | sed 's/0A//g')
 hexi=$(echo "$setence" | hex2raw -r )
 
-#SHOWING HEX BEFOR
-#echo -e "${RED}hex befor:${NC} "
 bin=$(echo "$ibase $hex" | bc | sed 's/\\//g')
 bina=$(echo -n $bin | sed 's/ //g')
 bit8=$(echo "$bina" | sed -e 's:\(........\):\1 :g' )
