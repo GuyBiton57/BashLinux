@@ -1,0 +1,6 @@
+this tool are made to block or unblock a ip address from kali linux firewall.
+if you want to block put the ip after calling the script
+block the ip on iptables or unblock
+use -u flag to unblock and then in the $2 argument put the ip 
+feel free to comment and add this script as many as you want.
+BrainuxBashTools
